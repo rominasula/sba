@@ -1,0 +1,47 @@
+/* External CSS */
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f0f8ff;
+}
+
+/* Navigation */
+nav ul {
+  list-style: none;
+  display: flex;
+  background: #004466;
+  padding: 10px;
+  justify-content: center;
+}
+nav ul li {
+  margin: 0 15px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav ul li a:hover {
+  color: yellow;
+}
+
+/* Table */
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid black;
+  padding: 8px 12px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
+
