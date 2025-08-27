@@ -74,11 +74,16 @@ th {
   background: #004466;
   color: white;
 }
-tr:nth-child(even) {
-  background: #e6f7ff;
-}
+
 tr:hover {
   background: #d0ebff;
 }
 
-
+/* Footer */
+footer {
+  background: #004466;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
